@@ -1,6 +1,5 @@
 # testPublic
-test for public repository
+
+This is a repo used just to learn git and test features of github like permissions handling. 
 
 
-
-this is a line I've added for a commit after my first commit. - Andrew
